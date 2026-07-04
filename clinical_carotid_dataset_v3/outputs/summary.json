@@ -1,0 +1,27 @@
+{
+  "total_patients": 300,
+  "plaque_present_counts": {
+    "0": 205,
+    "1": 95
+  },
+  "echogenicity_counts": {
+    "High": 27,
+    "Intermediate": 40,
+    "Low": 28,
+    "None": 205
+  },
+  "risk_category_counts": {
+    "Low": 293,
+    "Moderate": 7
+  },
+  "image_count_distribution": {
+    "1": 205,
+    "5": 95
+  },
+  "validation_issues": [],
+  "split_counts": {
+    "train": 210,
+    "val": 45,
+    "test": 45
+  }
+}
